@@ -1,12 +1,10 @@
 Package: StatVisuals
 Title: Statistical Analysis and Custom Visuals for R Users
-Version: 0.0.0.9000
-Authors@R: person("Jay", "Patel", email = "jayp157@usf.edu", role = c("aut", "cre"))
-Description: This package helps R users with functions for conducting statistical tests 
-    along with creating customized plots for visualizing non-parametric test results. 
-    The package will help us to understand statistical differences 
-    across various groups and allows R users to present their findings effectively 
-    through various visual outputs.
+Version: 0.1.0
+Date: 2024-11-03
+Author: Jay Patel
+Maintainer: <jayp175@usf.edu>
+Description: This package provides R users with a comprehensive set of functions for performing statistical tests and creating customized plots to visualize the results of non-parametric tests.  
 Depends: R (4.4.1)
 Imports: stats, ggplot2, lattice
 License: CC0
