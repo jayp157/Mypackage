@@ -1,5 +1,5 @@
-Package: Jay
-Title: Visual and Statistical Insights with Jay's Test
+Package: StatVisuals
+Title: Statistical Analysis and Custom Visuals for R Users
 Version: 0.0.0.9000
 Authors@R: person("Jay", "Patel", email = "jayp157@usf.edu", role = c("aut", "cre"))
 Description: This package helps R users with functions for conducting statistical tests 
