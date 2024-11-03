@@ -1,0 +1,13 @@
+Package: Jay
+Title: Visual and Statistical Insights with Jay's Test
+Version: 0.0.0.9000
+Authors@R: person("Jay", "Patel", email = "jayp157@usf.edu", role = c("aut", "cre"))
+Description: This package helps R users with functions for conducting statistical tests 
+    along with creating customized plots for visualizing non-parametric test results. 
+    The package will help us to understand statistical differences 
+    across various groups and allows R users to present their findings effectively 
+    through various visual outputs.
+Depends: R (4.4.1)
+Imports: stats, ggplot2, lattice
+License: CC0
+LazyData: true
